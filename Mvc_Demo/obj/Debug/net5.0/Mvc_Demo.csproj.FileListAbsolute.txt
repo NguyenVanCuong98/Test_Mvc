@@ -166,11 +166,6 @@ C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Vie
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\People\Details.cshtml.g.cs
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\People\Edit.cshtml.g.cs
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\People\Index.cshtml.g.cs
-C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\People1\Create.cshtml.g.cs
-C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\People1\Delete.cshtml.g.cs
-C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\People1\Details.cshtml.g.cs
-C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\People1\Edit.cshtml.g.cs
-C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\People1\Index.cshtml.g.cs
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
@@ -181,3 +176,8 @@ C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Vie
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Persons\Create.cshtml.g.cs
+C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Persons\Delete.cshtml.g.cs
+C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Persons\Details.cshtml.g.cs
+C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Persons\Edit.cshtml.g.cs
+C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Persons\Index.cshtml.g.cs

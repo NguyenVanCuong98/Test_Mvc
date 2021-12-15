@@ -181,3 +181,6 @@ C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Vie
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Persons\Details.cshtml.g.cs
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Persons\Edit.cshtml.g.cs
 C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\obj\Debug\net5.0\Razor\Views\Persons\Index.cshtml.g.cs
+C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\bin\Debug\net5.0\EPPlus.dll
+C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Anh Cuong Dau\source\repos\Mvc_Demo\Mvc_Demo\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Mvc_Demo.Models
 {
+    [Table("Movie")]
     public class Movie
     {
         public int Id { get; set; }
